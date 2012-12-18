@@ -6,3 +6,5 @@ Branch Atmega/Arduino/Visual C#/Quadrokopter
 
 von Dr. Christoph Reuter 2012 - Hameln
 
+Unterstützung von LB-Projects
+
